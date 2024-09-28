@@ -6,6 +6,8 @@
         <title>Tela Inicial do Sistema</title>
     </head>
     <body>
-        <h3 align = center>Parabéns! Seu login foi efetuado com a senha de Administrador,<br> monte aqui o seu Sistema!</h3>
-    </body>
+        <h3 align = center>
+            Parabéns! Seu login foi efetuado com Sucesso !<br>
+            Tutorial bem Sucedido!
+        </h3>    </body>
 </html>
